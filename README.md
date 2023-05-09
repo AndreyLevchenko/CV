@@ -1,6 +1,5 @@
 # Andrey Levchenko
 ## Profile
-More than 20 years of programming experience
 
 Current skills:
 - Java
@@ -10,8 +9,8 @@ Current skills:
 - Python
 - Go
 
+More than 20 years of programming experience
 ## Education
-
 Omsk State Technical University (Automated Systems of Information Processing and Control)
 1992-1997
 ## Project/Employment history
