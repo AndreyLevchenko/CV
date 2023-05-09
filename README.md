@@ -22,7 +22,7 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 - Service Now integration (Aqua Security Platform/Vulnerability Response for Containers)
 
-### Team Lead (February 2021 - January 2023)
+### Team lead (February 2021 - January 2023)
 
 - Notification app built with Go and VueJs
 - Ongoing tasks for [Trivy security scanner](https://github.com/aquasecurity/trivy)
@@ -104,6 +104,7 @@ Atlassian Jira plugins development to support custom team workflow
 Development of subscriber database.
 - Frontend: MS Access
 - Backend: SQL Server/Microsoft Transact SQL.
+
 Integration with telecommunication equipment using several Windows services (Win API
 & C++)
 
