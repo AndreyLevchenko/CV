@@ -1,7 +1,4 @@
-Andrey Levchenko
-Russia, Omsk, 11-Zaozernaya, 4
-+79514008101
-levchenko.andrey@gmail.com
+# Andrey Levchenko
 ## Profile
 More than 20 years of programming experience
 Current skills
