@@ -1,7 +1,8 @@
 # Andrey Levchenko
 ## Profile
 More than 20 years of programming experience
-Current skills
+
+Current skills:
 - Java
 - Javascript
 - React.js
@@ -16,8 +17,8 @@ Omsk State Technical University (Automated Systems of Information Processing and
 - Service Now integration (Aqua Security Platform/Vulnerability Response for Containers)
 ### Team Lead (February 2021 - January 2023)
 - Notification app built with Go and VueJs
-- Ongoing tasks for [Trivy] security scanner (https://github.com/aquasecurity/trivy)
-- TestQuality integration with Atlassian Jira
+- Ongoing tasks for [Trivy security scanner](https://github.com/aquasecurity/trivy)
+- [TestQuality](https://www.testquality.com/) integration with Atlassian Jira
 - Technical management of own team (Code review/Help with troubleshooting)
 ### Mohami (January 2017 - February 2021)
 Atlassian Plugin developer in company that is leader on Atlassian Marketplace
@@ -32,15 +33,15 @@ Confluence and Bitbucket
 - Handling of leads
 - Statistics
 - Wide integration options with third-party systems
-#### Set of small jira plugins (https://marketplace.atlassian.com/vendors/1210684)
-- Simple Wiki Jira plugin - Atlassian Jira plugin that provides support for wiki pages within
-Jira Project (So no Atlassian Confluence instance is required)
-#### NBC - Reporting app for Commercial Innovation division built with Ext.js and Java
-#### IHG - Frontend app for Hotel Management built with Ext.js
+#### [Plugins for Atlassian Jira](https://marketplace.atlassian.com/vendors/1210684)
+- Simple Wiki Jira plugin - Wiki pages within Jira Project
+- Simple Tasklist Plugin - managing tasks within Jira issues
+#### NBC - Reporting app for Commercial Innovation division
+- Ext.js 3 to Ext.js 4 migration
 ### BigBrassBand (2012-2015)
 - Support and Improvements of Git Integration plugin for Atlassian Jira
-### Freelancer at Upwork (July 2010 - September 2011)
-- Implemented several Java plugins for MetricInsights platform which provide portal integration
+### Freelancer(Upwork) (July 2010 - September 2011)
+Implemented several Java plugins for MetricInsights platform which provide portal integration
 with:
 - Apache Hadoop
 - SAP Business Objects
