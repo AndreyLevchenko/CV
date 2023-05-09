@@ -9,7 +9,9 @@ Current skills:
 - Node.js
 - Python
 - Go
+
 ## Education
+
 Omsk State Technical University (Automated Systems of Information Processing and Control)
 1992-1997
 ## Project/Employment history
