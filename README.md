@@ -20,7 +20,8 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 ### Freelancer (January 2023 - now)
 
-Integration of ([Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html))
+Integration of [Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html)
+- integration for public listing on Service Now Store
 - pure backend app 
 - javascript (Rhino)
 - yet another investigation of host app source code
