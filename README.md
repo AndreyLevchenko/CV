@@ -20,7 +20,10 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 ### Freelancer (January 2023 - now)
 
-- Service Now integration (Aqua Security Platform/Vulnerability Response for Containers)
+Integration of ([Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html))
+- pure backend app 
+- javascript (Rhino)
+- yet another investigation of host app source code
 
 ### Team lead (February 2021 - January 2023)
 
@@ -31,12 +34,12 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 ### Mohami (January 2017 - February 2021)
 
-Atlassian Plugin developer in company that is leader on Atlassian Marketplace
+Atlassian Plugin developer in company that was leader on Atlassian Marketplace
 - Active role in development of more than 20 products for Atlassian Jira,
 Confluence and Bitbucket
 - Design of high performance event processing in clustered environment
 - Constant improvements of product security
-- Troubleshooting of real customers issues
+- Level 3 customer support
 
 ### Topshelf Solutions (September 2011 - December 2016)
 
@@ -58,7 +61,7 @@ Confluence and Bitbucket
 
 ### BigBrassBand (2012-2015)
 
-- Support and Improvements of Git Integration plugin for Atlassian Jira
+- Support and Improvements of [Git Integration for Atlassian Jira](https://marketplace.atlassian.com/apps/4984/git-integration-for-jira)
 
 ### Freelancer(Upwork) (July 2010 - September 2011)
 
@@ -105,7 +108,7 @@ Development of subscriber database.
 - Frontend: MS Access
 - Backend: SQL Server/Microsoft Transact SQL.
 
-Integration with telecommunication equipment using several Windows services (Win API
+Integration with telecommunication equipment using Windows services (Win API
 & C++)
 
 ### Network engineer/System administrator at Commed (1994-2001)
