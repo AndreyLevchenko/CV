@@ -72,7 +72,9 @@ with:
 - Apache Hadoop
 - SAP Business Objects
 - Treasure Data
+
 Take part in development solutions for MealMetrics and Tabulaw (GWT applications)
+
 Implemented Atlassian Jira plugin for custom reporting
 
 ### Developer at IssArt (2009 - 2011)
