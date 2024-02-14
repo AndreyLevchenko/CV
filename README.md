@@ -5,8 +5,7 @@ Telegram: `@levchenko_andrey`
 Current skills:
 - Java
 - Javascript
-- React.js
-- Node.js
+- React.js  
 - Python
 - Go
 
@@ -31,25 +30,37 @@ Programming languages:
 - C
 - Javascript/JQuery
 - GCode
-### Aqua Security (Solo)
 
-Integration of [Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html)
+### Aqua Security
+
+Team lead:
+- working personally on most complex parts
+- code review with feedback to make team skills grow
+- help with troubleshooting
+- clarifing customer requirements  
+  
+#### Integration of [Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html)
+
 - integration for public listing on Service Now Store
-- pure backend app 
-- javascript (Rhino)
+- mostly backend modules
+- Javascript (Rhino)
 - yet another investigation of host app source code
 
-### Aqua Security (Team lead)
+#### Notification app built with Go and VueJs ([Postee](https://github.com/aquasecurity/postee))
 
-Technical management of several developers:
-- code review
-- help with troubleshooting
-- clarifing customer requirements
-- l3 customer support
-  
-Projects:
-- Notification app built with Go and VueJs ([Postee](https://github.com/aquasecurity/postee))
-- Ongoing tasks for [Trivy security scanner](https://github.com/aquasecurity/trivy)
+- webhook to receive information from AquaSecurity platform
+- builds notification message based on results of scanned container images
+- custom message templates
+- administration frontend
+- integration with Jira, Slack, Teams, Service Now
+
+#### [Trivy security scanner](https://github.com/aquasecurity/trivy)
+
+big project, worked on several specific tasks including: 
+- scanning misconfiguration in Docker files
+- Java dependency tree representation
+- ContainerD integration
+- Level3 customer support
 
 ### [TestQuality](https://www.testquality.com/)
 
