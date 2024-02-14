@@ -21,10 +21,11 @@ Omsk State Technical University (Automated Systems of Information Processing and
 Software for automatic spray painting machine
 - Tool to generate GCode instructions based on product type/dimensions and paint features/specification
 - Control of different machine features like air pressure, automatic greasing, conveyer, flipper
-- Configuration of software modules based on specific machine options, so same software build could be used different machines
+- Configuration of software modules based on specific machine options, so same software build could be used with different machines
 - LinuxCNC API integration
 - CI/CD configured within project
 
+Programming languages:
 - Python
 - Swift (console app for Linux :))
 - C
