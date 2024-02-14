@@ -48,7 +48,7 @@ Technical management of several developers:
 - l3 customer support
   
 Projects:
-- Notification app built with Go and VueJs [{Postee](https://github.com/aquasecurity/postee)
+- Notification app built with Go and VueJs ([Postee](https://github.com/aquasecurity/postee))
 - Ongoing tasks for [Trivy security scanner](https://github.com/aquasecurity/trivy)
 
 ### [TestQuality](https://www.testquality.com/)
