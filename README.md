@@ -16,7 +16,21 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 ## Project/Employment history
 
-### Freelancer
+### [Art Robot](https://www.youtube.com/@user-sb2cv4hv5k)
+
+Software for automatic spray painting machine
+- Tool to generate GCode instructions based on product type/dimensions and paint features/specification
+- Control of different machine features like air pressure, automatic greasing, conveyer, flipper
+- Configuration of software modules based on specific machine options, so same software build could be used different machines
+- LinuxCNC API integration
+- CI/CD configured within project
+
+- Python
+- Swift (console app for Linux :))
+- C
+- Javascript/JQuery
+- GCode
+### Aqua Security (Solo)
 
 Integration of [Aqua Security Platform](https://www.aquasec.com/) and [Vulnerability Response for Containers](https://docs.servicenow.com/en-US/bundle/utah-security-management/page/product/container-vulnerability-response/concept/understanding-cvr.html)
 - integration for public listing on Service Now Store
@@ -24,12 +38,21 @@ Integration of [Aqua Security Platform](https://www.aquasec.com/) and [Vulnerabi
 - javascript (Rhino)
 - yet another investigation of host app source code
 
-### Team lead
+### Aqua Security (Team lead)
 
-- Notification app built with Go and VueJs
+Technical management of several developers:
+- code review
+- help with troubleshooting
+- clarifing customer requirements
+- l3 customer support
+  
+Projects:
+- Notification app built with Go and VueJs [{Postee](https://github.com/aquasecurity/postee)
 - Ongoing tasks for [Trivy security scanner](https://github.com/aquasecurity/trivy)
-- [TestQuality](https://www.testquality.com/) integration with Atlassian Jira
-- Technical management of own team (Code review/Help with troubleshooting)
+
+### [TestQuality](https://www.testquality.com/)
+
+- Integration with Atlassian Jira (Cloud plugin for Atlassian Jira)
 
 ### Mohami
 
