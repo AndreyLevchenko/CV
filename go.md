@@ -8,7 +8,7 @@ Besides commercial product company contributes to open source projects and I wor
 As it's open source software all my changes are available for review
 
 Here is list of pull requests I created:
-(https://github.com/aquasecurity/trivy/pulls?q=is%3Apr+is%3Aclosed++author%3AAndreyLevchenko).
+[https://github.com/aquasecurity/trivy/pulls?q=is%3Apr+is%3Aclosed++author%3AAndreyLevchenko](https://github.com/aquasecurity/trivy/pulls?q=is%3Apr+is%3Aclosed++author%3AAndreyLevchenko).
 
 I was also involved in client support (through github issues)
 
@@ -22,5 +22,5 @@ Some of the actions available:
 - create issue in Service Now
 
 App is not in active development at the moment though you can see my historical pull requests
-(https://github.com/aquasecurity/postee/pulls?q=is%3Apr+is%3Aclosed+author%3AAndreyLevchenko)
+[https://github.com/aquasecurity/postee/pulls?q=is%3Apr+is%3Aclosed+author%3AAndreyLevchenko](https://github.com/aquasecurity/postee/pulls?q=is%3Apr+is%3Aclosed+author%3AAndreyLevchenko)
 
