@@ -1,12 +1,17 @@
 ### Experience
-My Java experience is mostly linked with development products for Atlassian ecosystem. Besides that there were couple of "regular" projects for corporative segment. Due to several reasons I'm closing Atlassian line at the moment and looking for something new. Let me give some general technical details of Atlassian plugins to better understanding of my technical experience: 
-There are 2 main types of plugins:
+My Java experience is mostly linked with development products for Atlassian ecosystem. Besides that there were couple of "regular" projects for corporative segment. Due to several reasons I'm closing Atlassian line at the moment and looking for something new. 
+
+Let me give some general technical details of Atlassian plugins to better understanding of my technical experience: 
+
+There are two main types of plugins:
 1. Plugin for on-premise application 
 2. Cloud plugins
 
-First type of plugin is essentially  a jar that can be loaded dynamically to host app (Jira/Confluence/Bitbucket). App features that can be loaded dynamically is powerful feature and Atlassian itself often use it for base function.  For example SSH support for on-premise Bitbucket implemented as separate plugin. Every plugin is small Java app which includes commonly used facilities as REST/dependency injection/ORM. Although implementations are a bit different than commonly used with Spring I've never had any issues with converting my skills.
+First type of plugin is essentially an extension that can be loaded dynamically to host application (Jira/Confluence/Bitbucket). Features which can be loaded dynamically is powerful feature and Atlassian itself often use it for providing base functions.  For example SSH support for on-premise Bitbucket implemented as separate plugin (developed by Atlassian). 
 
-And second type of plugin is cloud plugins. They are intended to work with Atlassian Cloud solutions and they are hosted in cloud themselfs. Usually either AWS or Google Cloud was used host applications so I had some experience with infrastructure. Choice for programming languages is Python, Javascript or Java. In most cases it was Python. Though once I implemented Confluence plugin for scanning pages with Spring Boot framework. It's hosted on Google Cloud and uses DBMS and MQ services provided by Google. 
+Under the hood plugin is small Java app which includes facilities like REST/dependency injection/ORM. Although implementations are a bit different than commonly used frameworks I've never had any issues with converting my skills from one framework to another.
+
+Second type of plugin is *cloud plugins*. They are intended to work with Atlassian Cloud solutions and they are hosted in cloud themselfs. Usually either AWS or Google Cloud was used to host applications so I had some experience with infrastructure. Choice for programming languages is Python, Javascript or Java. In most cases it was Python. Though once I implemented Confluence plugin for scanning pages with Spring Boot framework. It's hosted on Google Cloud and uses DBMS and MQ services provided by Google. 
 
 ### AppFire (2021 - 2023)
 
