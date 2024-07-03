@@ -15,6 +15,6 @@ Omsk State Technical University (Automated Systems of Information Processing and
 
 ## My Projects
 
-- [Go projects](go.md)
-- [React projects](react.md)
-- [Java projects](java.md)
+- [Go projects (since 2021)](go.md)
+- [React projects (since 2016)](react.md)
+- [Java projects (since 2009)](java.md)
