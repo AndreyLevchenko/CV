@@ -1,5 +1,5 @@
 ## Experience
-Most my Go experience is based on my work for [Aqua Security](https://www.aquasec.com/). It's one of the leaders of security market, providing both on-premise and cloud solutions for clients around the world.
+Most my Go experience is based on my work for [Aqua Security](https://www.aquasec.com/). The company is one of the leaders on security software market, providing both on-premise and cloud solutions for clients around the world.
 
 Besides commercial product company contributes to open source projects and I worked along with open source support team.
 
