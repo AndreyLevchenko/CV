@@ -15,7 +15,7 @@ Second type of plugin is *cloud plugins*. They are intended to work with Atlassi
 
 ### AppFire (2021 - 2023)
 
-Appfire asquired Mohami and I provided support for Mohami products for some time. It was interesting experience to work with a big team distributed worldwide.
+Appfire acquired Mohami and I provided support for Mohami products for some time. It was interesting experience to work with a big team distributed worldwide.
 
 ### Mohami (January 2017 - February 2021)
 
